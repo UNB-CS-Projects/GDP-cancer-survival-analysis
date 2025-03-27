@@ -11,6 +11,7 @@ Mar 29 (Sat): Submit proposal (individual submission)
 
 – Apr 23 (Wed): Final report/presentation
 
-Chosen Dataset:
+## Data
+Chosen Datasets:
 
 – https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
