@@ -1,4 +1,5 @@
 # GDP-cancer-survival-analysis
+Descriptive and predictive Data Analytics
 
 CS2704 Final Project
 Christian Dennis | Student ID: 3729509
