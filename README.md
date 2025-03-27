@@ -32,5 +32,5 @@ Interpret Findings – Assess significance (p < 0.05) and consider confounding f
 ## Data
 Chosen Datasets:
 - Used Files attached
-- 
-– https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+- https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+- tbd
