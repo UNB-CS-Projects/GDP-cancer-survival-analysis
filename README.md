@@ -42,3 +42,8 @@ Chosen Datasets:
 - Used Files attached
 - https://data.worldbank.org/indicator/NY.GDP.PCAP.CD | World Bank Group
 - https://gco.iarc.fr/survival/survcan/dataviz/table | World Health Organization
+
+## Links
+https://powerpoint.cloud.microsoft/open/onedrive/?docId=3C4EFB58D9BD8FF5%21s1b1cf1832b944ba292e61f5cd27d8001&driveId=3C4EFB58D9BD8FF5 power point presentation
+https://github.com/UNB-CS-Projects/GDP-cancer-survival-analysis github repo
+https://colab.research.google.com/drive/11NmWMwgP4ppUHztalXCcrOzNEKCiqbwb colab project
